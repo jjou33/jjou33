@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=Welcome%20To%20Hippo%20DEV&fontSize=50)
 
-## <p align="center">🚕 DEV Blog Link</p>
+## <p align="center">🚕 HIPPO DEV BLOG 링크</p>
 
 <p align="center"><a href="https://jjou33.github.io/" target="_blank"><img src="https://img.shields.io/badge/DEV Blog-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 </p>
@@ -8,7 +8,7 @@
 <p align="center">🙋 안녕하세요, 현재 직장에서 개발자로 일하고 있습니다.<br> 📝 프론트엔드에 관심이 많고 위주로 학습하고 있습니다  </p>
 <br>
 
-## <p align="center">💻 USING SKILL SET</p>
+## <p align="center">💻 사용 SKILL SET</p>
 
 ### <p align="center">📗 FRONT-END</p>
 
@@ -29,6 +29,7 @@
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/개인학습 중...-8669AE??style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/개인학습 예정...-8669AE??style=for-the-badge"/>
 
