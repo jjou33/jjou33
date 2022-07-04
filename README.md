@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
 <br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-4FC08D??style=for-the-badge&logo=nuxt.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26??style=for-the-badge&logo=HTML5&logoColor=white"/>
