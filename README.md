@@ -16,8 +16,11 @@
 <img src="https://img.shields.io/badge/Javscript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
 <br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nuxt.js-4FC08D??style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Vue2.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue3.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26??style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -31,8 +34,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/개인학습 중...-8669AE??style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/개인학습 예정...-8669AE??style=for-the-badge"/>
+
+
 
 </p>
 
