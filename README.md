@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/개인학습 중...-8669AE??style=for-the-badge"/>
+<img src="https://img.shields.io/badge/개인 학습-8669AE??style=for-the-badge"/>
 <br>
 
 
