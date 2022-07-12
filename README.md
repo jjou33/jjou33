@@ -29,6 +29,7 @@
 <br>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9??style=for-the-badge&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Babel-F9DC3E??style=for-the-badge&logo=Babel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF??style=for-the-badge&logo=Vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
