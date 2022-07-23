@@ -12,25 +12,27 @@
 
 ### <p align="center">📗 FRONT-END</p>
 
+
 <p align="center">
-<img src="https://img.shields.io/badge/Javscript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/고도화 프로젝트 진행 중..-8669AE??style=for-the-badge"/> 
 <br>
+<img src="https://img.shields.io/badge/Vue3.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vite-646CFF??style=for-the-badge&logo=Vite&logoColor=white"/>
+
+<br>
+<br>
+<img src="https://img.shields.io/badge/실무 Skill Set-8669AE??style=for-the-badge"/> 
 <br>
 <img src="https://img.shields.io/badge/Vue2.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue3.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Javscript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Webpack-8DD6F9??style=for-the-badge&logo=Webpack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Babel-F9DC3E??style=for-the-badge&logo=Babel&logoColor=white"/>
+
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26??style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6??style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
-<br>
-<img src="https://img.shields.io/badge/Webpack-8DD6F9??style=for-the-badge&logo=Webpack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Babel-F9DC3E??style=for-the-badge&logo=Babel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF??style=for-the-badge&logo=Vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/실무 Skill Set-8669AE??style=for-the-badge"/> 
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/개인 학습-8669AE??style=for-the-badge"/>
