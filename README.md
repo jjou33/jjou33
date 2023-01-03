@@ -12,7 +12,7 @@
 
 ### <p align="center">📗 FRONT-END</p>
 
-##### <p align="center">📝 운영 Skill Set(실무)</p>
+#### <p align="center">📝 운영 Skill Set(실무)</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Javscript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26??style=for-the-badge&logo=HTML5&logoColor=white"/>
