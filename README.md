@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/Babel-F9DC3E??style=for-the-badge&logo=Babel&logoColor=white"/>
 </p>
 
-#### <p align="center">💡 차세대 서비스 고도화 프로젝트 진행(실무)</p>
+#### <p align="center">💡 차세대 서비스 고도화 프로젝트 진행(공통 파트)</p>
+##### <p align="center">💻 Front-end 프레임워크 설계 및 개발</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Vue3(Composition API)-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -31,7 +32,7 @@
 <img src="https://img.shields.io/badge/Prettier-ED1C24??style=for-the-badge&logo=Prettier&logoColor=white"/>
 <img src="https://img.shields.io/badge/pnpm-F69220??style=for-the-badge&logo=pnpm&logoColor=white"/>
 
-#### <p align="center"> 👨‍💻 사이드 프로젝트 Skill Set</p>
+#### <p align="center"> 👨‍💻 사이드 프로젝트(개인 블로그 프레임워크 제작) Skill Set</p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -51,9 +52,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000??style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/실무-8669AE??style=for-the-badge"/> 
 <br>
-
-<img src="https://img.shields.io/badge/SpingBoot-6DB33F??style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/실무 전환 예정-8669AE??style=for-the-badge"/>
 
 <br>
 
