@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/badge/Prettier-ED1C24?style=for-the-badge&logo=Prettier&logoColor=white"/>
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
 </p>
+
 ### <p align="center">📒 BACK-END</p>
 
 <p align="center">
