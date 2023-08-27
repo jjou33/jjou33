@@ -3,9 +3,7 @@
 ## <p align="center">🚕 DEV Blog Link</p>
 
 <div style="display: flex; gap: 10px; width: 100%; justify-content: center; align-content: center;" align="center">
-<p><a href="https://jjou33.github.io/" target="_blank"><img src="https://img.shields.io/badge/이전 개발 블로그(X)-E34F26?style=for-the-badge&logo=이미지 이름&logoColor=white"/></a>
-</p>
-<p><a href="https://hippo-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/신규 개발 블로그-1572B6?style=for-the-badge&logo=이미지 이름&logoColor=white"/></a>
+<p><a href="https://hippo-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby 개발 블로그-1572B6?style=for-the-badge&logo=이미지 이름&logoColor=white"/></a>
 </p>
 </div>
 
@@ -38,6 +36,8 @@
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
 
 #### <p align="center"> 👨‍💻 사이드 프로젝트(개인 블로그 제작) Skill Set</p>
+##### <p align="center">💻 Gatsby SSG 프로젝트</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -49,6 +49,17 @@
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
 </p>
 
+##### <p align="center">💻 NextJS 블로그 프로젝트</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled Compoents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/TSLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prettier-ED1C24?style=for-the-badge&logo=Prettier&logoColor=white"/>
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
+</p>
 ### <p align="center">📒 BACK-END</p>
 
 <p align="center">
