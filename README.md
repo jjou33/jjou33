@@ -3,7 +3,7 @@
 ## <p align="center">🚕 DEV Blog Link</p>
 
 <div style="display: flex; gap: 10px; width: 100%; justify-content: center; align-content: center;" align="center">
-<p><a href="https://hippo-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby 개발 블로그-1572B6?style=for-the-badge&logo=이미지 이름&logoColor=white"/></a>
+<p><a href="https://next-hippo-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/NextJS 개발 블로그-1572B6?style=for-the-badge&logo=이미지 이름&logoColor=white"/></a>
 </p>
 </div>
 
@@ -37,7 +37,10 @@
 
 #### <p align="center"> 👨‍💻 사이드 프로젝트(개인 블로그 제작) Skill Set</p>
 ##### <p align="center">💻 Gatsby SSG 프로젝트</p>
-
+<div style="display: flex; gap: 10px; width: 100%; justify-content: center; align-content: center;" align="center">
+<p><a href="https://hippo-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby 개발 블로그 Link-663399?style=for-the-badge&logo=이미지 이름&logoColor=white"/></a>
+</p>
+</div>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -50,7 +53,10 @@
 </p>
 
 ##### <p align="center">💻 NextJS 블로그 프로젝트</p>
-
+<div style="display: flex; gap: 10px; width: 100%; justify-content: center; align-content: center;" align="center">
+<p><a href="https://next-hippo-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/NextJS 개발 블로그 Link-000000?style=for-the-badge&logo=이미지 이름&logoColor=white"/></a>
+</p>
+</div>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
