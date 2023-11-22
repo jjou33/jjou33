@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=🚕+Hello+My+World)](https://git.io/typing-svg)
 
 ## 🧑🏻‍💻 Web Frontend Developer
-<p border-radius='20px'><a href="https://next-hippo-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-00DC82?style=flat&logo=4chan&logoColor=#40AEF0"/></a>
+<p border-radius='20px'><a href="https://next-hippo-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-C22127?style=flat&logo=4chan&logoColor=#40AEF0"/></a>
 <a href="https://next-hippo-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/mail-004788?style=flat&logo=gmail&logoColor=#EA4335"/></a>
   
 </p>
